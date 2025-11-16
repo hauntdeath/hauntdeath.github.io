@@ -1,9 +1,6 @@
 # hauntdeath.github.io
 <!DOCTYPE html>
 <html>
-<head>
-title:About Mospan Sofiya
-</head>
 <body style="background-color:rgba(83, 106, 164, 0.4);">
 <h1 style="color:rgba(33, 0, 139, 1);style="font-size: 100px;">About Mospan Sofiya </h1>
 <p1>My name is Sonya and i am <i style="color:rgb(112, 34, 208);">kind, inquisitive</i> and <i style="color:rgb(112, 34, 208);">talkative</i> sometimes.</p1>
