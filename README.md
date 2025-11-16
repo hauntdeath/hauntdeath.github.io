@@ -1,1 +1,24 @@
 # hauntdeath.github.io
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Mospan Sofiya</title>
+</head>
+<body style="background-color:rgba(83, 106, 164, 0.4);">
+<h1 style="color:rgba(33, 0, 139, 1);style="font-size: 100px;">About Mospan Sofiya </h1>
+<p1>My name is Sonya and i am <i style="color:rgb(112, 34, 208);">kind, inquisitive</i> and <i style="color:rgb(112, 34, 208);">talkative</i> sometimes.</p1>
+<h2 style="color:rgba(33, 0, 139, 1);">My classes this quarter</h2>
+<p2>• Physics <br>• Object Oriented programming 1 <br>• Introduction to IT <br>• Calculus <br> </p2>
+<h2 style="color:rgba(33, 0, 139, 1);">My favorite movies</h2>
+<p3>1.Now you see me (<a href="https://m.imdb.com/title/tt1670345/?ref_=ext_shr_lnk" target="_blank">IMDB</a>) <br> </p3>
+<p4>2.The social network (<a href="https://m.imdb.com/title/tt1285016/?ref_=ext_shr_lnk" target="_blank">IMDB</a>) <br> </p4>
+<p5>3.The pianist (<a href="https://m.imdb.com/title/tt0253474/?ref_=ext_shr_lnk" target="_blank">IMDB</a>) <br> </p5>
+<h2 style="color:rgba(33, 0, 139, 1);">My moods</h2>
+<p5> happy:
+<img src="https://i.pinimg.com/236x/59/38/5c/59385ca21b1391f2507d26a99cf2532a.jpg" alt="happy:"style="width:300px;height:300px;">
+sad:
+<img src="https://i.pinimg.com/736x/63/f3/a4/63f3a47048d042285bc24bab503ab2e5.jpg" alt="sad:"style="width:300px;height:300px;"> </p5>
+<h2 style="color:rgba(33, 0, 139, 1)">Facts about my neighbors</h2>
+<i>• My bff studies in the Czeh Respublic <br> • Akbar has the highest midterm score </i>
+</body>
+</html>
