@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>About Mospan Sofiya</title>
+titleЖ About Mospan Sofiya
 </head>
 <body style="background-color:rgba(83, 106, 164, 0.4);">
 <h1 style="color:rgba(33, 0, 139, 1);style="font-size: 100px;">About Mospan Sofiya </h1>
